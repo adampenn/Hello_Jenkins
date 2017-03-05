@@ -1,3 +1,5 @@
+[![Build Status](http://localhost:8080/job/Liatrio%20Test/badge/icon)](http://localhost:8080/job/Liatrio%20Test/)
+
 Names:
 
 Adam J. Penn
